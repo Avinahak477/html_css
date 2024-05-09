@@ -1,0 +1,62 @@
+h1{
+    color: red;
+    background-color: yellowgreen;
+}
+
+button{
+    color: red;
+    background-color:aquamarine;
+}
+
+
+
+
+
+    /* This is Universal selector */
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+/* This is Type Selector */
+
+span{
+    font-size: medium;
+    color: aliceblue;
+    background-color: blueviolet;
+}
+
+
+/* This is id selector */
+#join{
+    color:red;
+    background-color: aqua;
+
+}
+
+#my-spn{
+    color: yellowgreen;
+    font-size: 40px;
+}
+
+#spa1{
+    color: blueviolet;
+    background-color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+
+
+/* This is class selector */
+
+
+
+/* This  is pseudo class selector */
+
+#my-btn:hover{
+                    
+    background-color: white;
+    color: black;
+    border: none;
+}
